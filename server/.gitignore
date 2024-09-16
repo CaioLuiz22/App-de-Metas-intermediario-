@@ -33,4 +33,4 @@ dist-ssr
 migrations/
 
 # Docker
-docker-compose.override.yml
+docker-compose.yml
